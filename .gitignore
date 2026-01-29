@@ -1,0 +1,29 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments (Recommended) ---
+# Common names for virtual env folders
+venv/
+env/
+.env/
+.venv/
+
+# --- Project Specific (Generated Output) ---
+# Do not track the files your code generates
+Output.fa
+solution.fasta
+synthetic_plasmid.fasta
+
+# --- OS / Editor Files (Junk) ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --- Optional: Local Test Inputs ---
+# If you don't want to upload your test input files, uncomment these:
+# Input.fa
+# Design.txt
